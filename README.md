@@ -6,7 +6,7 @@ Welcome to my GitHub profile.
 
 - 💼 Frontend Developer 
 - 🎓 Always learning something new in tech and beyond
-- 🌱 Currently exploring [Building my Github profile, Open Source Contributions]
+- 🌱 Currently exploring [Building a portfolio, Open Source Contributions]
 - 🛠️ Skilled in: [Angular, Typescript, Javacript, HTML, CSS]
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/radhika-agnihotri/)
 
